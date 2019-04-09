@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/GrassMap.unity
+  isLoaded: 1
+  isActive: 1
